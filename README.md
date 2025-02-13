@@ -11,7 +11,7 @@ This mod requires specific devices to work. Please confirm whether your device m
 
 # Supported Games
 
-| **Games** | **Platform** | **Mod file placement path** |
+| Games | Platform | Mod file placement path |
 | --- | --- | --- |
 | ACE COMBAT 7 | Steam | ACE COMBAT 7/ |
 | Assassins Creed Odyssey | Steam | Assassins Creed Odyssey/ |
