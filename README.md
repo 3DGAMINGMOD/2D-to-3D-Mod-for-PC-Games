@@ -1,6 +1,6 @@
 # 2D-to-3D-Mod-for-PC-Games
 <p align="center">
-	<img src="Logo.png" width="1000" height="1000" alt="Winlator Logo" />  
+	<img src="Logo.png" width="500" height="500" alt="Winlator Logo" />  
 </p>
 
 # Introduction
